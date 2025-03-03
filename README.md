@@ -1,7 +1,6 @@
   Sistema de Gestão Hospitalar
  
-  Descrição
- Este projeto é um sistema de gestão hospitalar desenvolvido em PHP com MySQL, que permite o cadastro de funcionários e pacientes. Os funcionários podem acessar o sistema via login, cadastrar receitas médicas e registrar a administração de remédios. O sistema é executado em um servidor local utilizando o XAMPP.
+  Descrição: Este projeto é um sistema de gestão hospitalar desenvolvido em PHP com MySQL, que permite o cadastro de funcionários e pacientes. Os funcionários podem acessar o sistema via login, cadastrar receitas médicas e registrar a administração de remédios. O sistema é executado em um servidor local utilizando o XAMPP.
 
   Tecnologias Utilizadas
 - **Linguagem de Programação:** PHP
